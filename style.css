@@ -1,0 +1,22 @@
+h1{
+
+color:red;
+
+}
+
+a:hover {
+    color: #c0f
+
+}
+
+ul{
+border:1px solid;
+border-color: red;
+box-shadow: 10px 10px;
+width: 50%;
+}
+figure{
+
+text-align: center;
+
+}
